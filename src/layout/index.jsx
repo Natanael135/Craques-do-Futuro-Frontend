@@ -11,7 +11,6 @@ const Layout = styled.div`
 
 const MainContent = styled.main`
   flex: 1;
-  padding: 20px;
 `;
 
 const LayoutPage = () => {
